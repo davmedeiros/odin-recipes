@@ -1,2 +1,1 @@
-# odin-recipes
-TOP - Odin Recipes
+# TOP - Educational Project - Odin Recipes
